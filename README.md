@@ -1,5 +1,5 @@
 - 👋 Hola, soy @SoyLucasOficial
-- 👀 Me interesa la programacion en Lua
+- 👀 Me interesa la programacion en Lua y JavaScript
 - 🌱 Estoy aprendiendo C++
 - 💞️ Soy dueño de StarGames y StarOriginals
 - 📫 Me puedes contactar en: stargamesofficial@outlook.es
